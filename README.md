@@ -20,9 +20,7 @@ The application is built using Swift and the SwiftUI framework. It demonstrates 
 
 ## Getting Started
 
-### Prerequisites<img width="1206" height="2622" alt="simulator_screenshot_6AA6EAAA-4A0F-4CE4-B42E-3D11F8BEEDD2" src="https://github.com/user-attachments/assets/0fdf0ac8-6e64-4751-a2ee-bc95705f8590" />
-
-
+### Prerequisites
 - macOS with Xcode installed.
 - A GitHub account.
 
