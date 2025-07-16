@@ -6,6 +6,12 @@ This is a SwiftUI application for iOS that uses the GitHub API to fetch and disp
 
 The application is built using Swift and the SwiftUI framework. It demonstrates how to authenticate with the GitHub API, fetch user data, and display it in a clean, user-friendly interface.
 
+## Screenshots
+| Login screen | Login flow 1 |  Login flow 2 | Login flow 3 | Private repo | Public repo | Account info | Follow and followers | 
+|----------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------| 
+|<img width="1179" height="2556" alt="Simulator Screenshot - iPhone 16 - 2025-07-15 at 18 34 31" src="https://github.com/user-attachments/assets/c32ff58e-7b6d-4892-9a97-f6fd09c828ff" />|<img width="1179" height="2556" alt="Simulator Screenshot - iPhone 16 - 2025-07-15 at 18 35 01" src="https://github.com/user-attachments/assets/c30119f1-88bc-4aeb-811b-0cc00a67cde5" />|<img width="1179" height="2556" alt="Simulator Screenshot - iPhone 16 - 2025-07-15 at 18 35 25" src="https://github.com/user-attachments/assets/a3105d23-0e21-46dd-9c69-ad29129e7a63" />|<img width="1179" height="2556" alt="Simulator Screenshot - iPhone 16 - 2025-07-15 at 18 35 33" src="https://github.com/user-attachments/assets/60251875-34aa-4611-856d-0784b1e646f7" />| <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-15 at 18 33 13" src="https://github.com/user-attachments/assets/2ee951dd-220d-4ad0-9e2f-d0d92906ea0f" />|<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-15 at 18 33 13" src="https://github.com/user-attachments/assets/a29513ba-492d-438d-8277-9b5ad0faf731" />|<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-15 at 18 33 02" src="https://github.com/user-attachments/assets/218e6024-3baf-446c-9384-345797d7ab88" />|<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-15 at 18 32 57" src="https://github.com/user-attachments/assets/1470d25e-a9d3-4dd1-aa75-38604c5f616d" />|
+
+
 ### Features
 
 - **GitHub API Integration**: The app uses the GitHub REST API to fetch public and private repositories, user information, followers, and following lists.
@@ -14,7 +20,8 @@ The application is built using Swift and the SwiftUI framework. It demonstrates 
 
 ## Getting Started
 
-### Prerequisites
+### Prerequisites<img width="1206" height="2622" alt="simulator_screenshot_6AA6EAAA-4A0F-4CE4-B42E-3D11F8BEEDD2" src="https://github.com/user-attachments/assets/0fdf0ac8-6e64-4751-a2ee-bc95705f8590" />
+
 
 - macOS with Xcode installed.
 - A GitHub account.
